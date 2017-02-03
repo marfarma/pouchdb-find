@@ -68,7 +68,7 @@ PouchDB.plugin(require('pouchdb-find'));
 API
 -----
 
-This API is modeled after [the Cloudant query API](https://docs.cloudant.com/api/cloudant-query.html), merged into CouchDB 2.0. Read that page for more details.
+This API is modeled after [the Cloudant query API](https://console.ng.bluemix.net/docs/services/Cloudant/api/cloudant_query.html), merged into CouchDB 2.0. Read that page for more details.
 
 As with PouchDB, the entire API accepts either the callback or the Promise style.
 
